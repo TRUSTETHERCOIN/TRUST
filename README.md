@@ -1,6 +1,10 @@
 # TRUST
 Cryptocurrency, real world assets.
+
+
 WHAT IS TRUST
+
+
 01
 TOKEN
 TRUST is a ERC20 smart contract built on the Ethereum blockchain.
